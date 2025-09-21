@@ -1,0 +1,66 @@
+﻿[
+  {
+    "title": "IBM VR Language-Learning Tool",
+    "year": "2025",
+    "role": "VR Interaction Designer & 3D Environment Builder",
+    "stack": ["Unity", "XR Interaction Toolkit", "C#"],
+    "summary": "Built a realistic VR environment with world-space vocabulary panels, glow-on-hover cues, and push-to-talk interactions to support language learning.",
+    "highlights": [
+      "Configurable XR player with interactables and physics tuning",
+      "Diegetic overlays, day-night ambience, production-ready asset sourcing"
+    ],
+    "details": {
+      "problem": [
+        "Learners needed an immersive practice space that could scale scenarios without overwhelming newcomers to VR.",
+        "Stakeholders required a prototype aligned with IBM accessibility guidelines."
+      ],
+      "approach": [
+        "Mapped the learning journey to VR micro-interactions, layering world-space prompts, haptics, and glow affordances.",
+        "Authored variation-ready scene prefabs with lighting cycles, spatial audio beds, and optimised baked textures."
+      ],
+      "outcome": [
+        "Reduced cognitive load during vocabulary drills by surfacing context-aware highlights.",
+        "Established a reusable interaction blueprint for IBM's wider XR education initiatives."
+      ]
+    },
+    "links": {
+      "case": "#ibm-vr",
+      "repo": null,
+      "demo": null
+    },
+    "cover": "assets/img/project-ibm-vr.jpg",
+    "tags": ["VR", "Learning"]
+  },
+  {
+    "title": "Smoothie Operator (Distinction)",
+    "year": "2025",
+    "role": "Scrum Master & Software Engineer",
+    "stack": ["JavaScript"],
+    "summary": "Two-player fruit-slicing PC game; led sprints and engineering to deliver a polished gameplay loop.",
+    "highlights": [
+      "Designed memory-recipe mechanics with responsive keyboard play",
+      "Delivered sprint ceremonies and polish pass to secure Distinction"
+    ],
+    "details": {
+      "problem": [
+        "Team needed a fast-moving party game concept that balanced cooperation and competition.",
+        "Prototype required clear UX flows so new players could onboard in under a minute."
+      ],
+      "approach": [
+        "Facilitated sprint rituals and backlog grooming to keep scope aligned with three-week milestones.",
+        "Implemented input handling, visual feedback, and scoring HUD using vanilla JavaScript."
+      ],
+      "outcome": [
+        "Earned Distinction grade for the module and positive heuristics feedback from playtesters.",
+        "Provided reusable architecture for future browser-based multiplayer experiments."
+      ]
+    },
+    "links": {
+      "case": "#smoothie-operator",
+      "repo": "https://github.com/UoB-COMSM0166/2025-group-20",
+      "demo": null
+    },
+    "cover": "assets/img/project-smoothie.jpg",
+    "tags": ["Game", "JavaScript"]
+  }
+]

@@ -1,0 +1,35 @@
+﻿[
+  {
+    "company": "IBM",
+    "title": "VR Interaction Designer & 3D Environment Builder",
+    "period": "06/2025-09/2025",
+    "location": "Remote",
+    "summary": [
+      "Built a realistic Unity environment with interaction states tuned for XR vocabulary practice.",
+      "Implemented push-to-talk flows, glow-on-hover affordances, and haptic cues for comfort and clarity.",
+      "Sourced and optimised production-ready assets to meet performance targets on headset hardware."
+    ]
+  },
+  {
+    "company": "Vulcan Intelligence",
+    "title": "Business Development Intern",
+    "period": "07/2023-08/2023",
+    "location": "London, UK",
+    "summary": [
+      "Analysed market datasets to prioritise outreach segments and refine value propositions.",
+      "Increased brand visibility by coordinating LinkedIn and Discord content campaigns with the marketing team.",
+      "Generated partnership reports highlighting growth opportunities and engagement metrics."
+    ]
+  },
+  {
+    "company": "Self-employed",
+    "title": "Student Writer",
+    "period": "08/2022-10/2022",
+    "location": "London, UK",
+    "summary": [
+      "Researched and produced film and media coverage for student-run publications.",
+      "Promoted arts events and secured accredited press access at the British Film Festival.",
+      "Delivered concise editorials balancing narrative voice with fact-checked commentary."
+    ]
+  }
+]

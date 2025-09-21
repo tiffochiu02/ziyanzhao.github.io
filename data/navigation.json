@@ -1,0 +1,8 @@
+﻿[
+  { "label": "Home", "href": "index.html#hero" },
+  { "label": "Projects", "href": "index.html#projects" },
+  { "label": "Experience", "href": "index.html#experience" },
+  { "label": "Skills", "href": "index.html#skills" },
+  { "label": "Contact", "href": "index.html#contact" },
+  { "label": "Case Studies", "href": "projects.html" }
+]
